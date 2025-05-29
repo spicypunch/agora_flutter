@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:agora_rtc_engine/agora_rtc_engine.dart';
 import 'package:permission_handler/permission_handler.dart';
 
-const String appId = '95d0575329144d00a9e8fd9846eee84d';
+const String appId = '';
 const String channelName = 'test_channel';
 const String token =
-    '007eJxTYGDIU/mxp76P8d2vOfMvt6vOiV+ntZPHmc9x7ooJ047xd/kpMBibGBhZphpbJqekGZskGpklplmkmqckG6aYJqUmWhqZb3hlntEQyMhgu7SMhZEBAkF8HoaS1OKS+OSMxLy81BwGBgBZyiLg';
+    '';
 
 void main() {
   runApp(const MyApp());
